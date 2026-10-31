@@ -1,0 +1,13 @@
+{
+  "itemGroup.wneop": "Example Mod Tab",
+  "block.wneop.example_block": "Example Block",
+  "item.wneop.example_item": "Example Item",
+
+  "wneop.configuration.title": "Wownow Entertainment Offical Packmod Configs",
+  "wneop.configuration.section.wneop.common.toml": "Wownow Entertainment Offical Packmod Configs",
+  "wneop.configuration.section.wneop.common.toml.title": "Wownow Entertainment Offical Packmod Configs",
+  "wneop.configuration.items": "Item List",
+  "wneop.configuration.logDirtBlock": "Log Dirt Block",
+  "wneop.configuration.magicNumberIntroduction": "Magic Number Text",
+  "wneop.configuration.magicNumber": "Magic Number"
+}
